@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_y_offset_round">60dp</dimen>
+    <dimen name="digital_y_offset">60dp</dimen>
+    <dimen name="digital_line_height">30dp</dimen>
+    <dimen name="digital_line_height_round">30dp</dimen>
+    <dimen name="digital_line_width">20dp</dimen>
+    <dimen name="digital_line_width_round">15dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="time_textsize">30sp</dimen>
+    <dimen name="date_textsize">15sp</dimen>
+    <dimen name="temp_textsize">20sp</dimen>
+    <dimen name="ampm_textsize">15sp</dimen>
+    <dimen name="image_size">25dp</dimen>
+
+    <dimen name="time_textsize_round">35sp</dimen>
+    <dimen name="date_textsize_round">20sp</dimen>
+    <dimen name="temp_textsize_round">25sp</dimen>
+    <dimen name="ampm_textsize_round">20sp</dimen>
+    <dimen name="image_size_round">30dp</dimen>
+</resources>
